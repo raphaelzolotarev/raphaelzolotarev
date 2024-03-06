@@ -22,10 +22,19 @@
 ## <p align="center">⚒️ Languages-Frameworks-Tools ⚒️</p>
  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css,javascript,jquery" />
+<img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css" />
 </p>
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,javascript,sql,php,mysql" />
+<img src="https://skillicons.dev/icons?i=java,spring,php,javascript,jquery" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=sql,mysql" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=prestashop,shopify,wordpress" />
 </p>
  
 ---
