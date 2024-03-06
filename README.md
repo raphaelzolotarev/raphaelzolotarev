@@ -9,7 +9,7 @@
 🔭 I’m currently studying at **Intec Brussel**  
 🌱 I’m currently learning **Java, Spring, Angular en SQL**   
 💪 +5 years pro Xp as **Webmaster**   
-⚡ fun fact **Joined Github in september 2023**   
+⚡ **Joined Github in september 2023**   
  
 ---
  
