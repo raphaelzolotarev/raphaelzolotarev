@@ -55,6 +55,6 @@
  
 <p align="center"> 
 <a href="https://zolotarev.eu" target="_blank">
-<img src="https://img.shields.io/badge/www.zolotarev.eu-%23000B25.svg?style=for-the-badge&logo=Haytamaroui.com&logoColor=00A4DC" target="_blank" />
+<img src="https://img.shields.io/badge/www.zolotarev.eu-%23000B25.svg?style=for-the-badge&logo=zolotarev.eu&logoColor=00A4DC" target="_blank" />
 </a>
 </p>
