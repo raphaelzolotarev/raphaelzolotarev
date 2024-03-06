@@ -7,8 +7,7 @@
 ---
  
 🔭 I’m currently studying at **Intec Brussel**  
-🌱 I’m currently learning **Java, Srping, Angular en SQL**   
-⚡ Fun fact: **“Harry Potter’s glasses were purchased from a thrift store.”**
+🌱 I’m currently learning **Java, Spring, Angular en SQL**   
  
 ---
  
