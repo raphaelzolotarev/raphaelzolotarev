@@ -22,7 +22,9 @@
 ## <p align="center">⚒️ Languages-Frameworks-Tools ⚒️</p>
  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css,jquery,cpanel,whm" />
+<img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css,javascript,jquery" />
+</p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,javascript,sql,php,mysql" />
 </p>
  
@@ -42,7 +44,7 @@
 <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelzintec&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 <img width=390 src="https://github-readme-stats.vercel.app/api?username=raphaelzintec&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 <br/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=haytamaroui&theme=dracula&mode=weekly" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=raphaelzolotarev&theme=dark" alt="GitHub Streak" /></a>
 </p>
  
  
